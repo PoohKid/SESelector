@@ -43,6 +43,7 @@
 		8475B7BA13D6CAC7001262B7 /* muci_fan_05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8475B7AF13D6CAC7001262B7 /* muci_fan_05.mp3 */; };
 		8475B7BB13D6CAC7001262B7 /* muci_hono_05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8475B7B013D6CAC7001262B7 /* muci_hono_05.mp3 */; };
 		8475B7BC13D6CAC7001262B7 /* ta_ge_kotaiko02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8475B7B113D6CAC7001262B7 /* ta_ge_kotaiko02.mp3 */; };
+		8475B7C613D6CEBF001262B7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8475B7C513D6CEBF001262B7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,7 @@
 		8475B7AF13D6CAC7001262B7 /* muci_fan_05.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = muci_fan_05.mp3; sourceTree = "<group>"; };
 		8475B7B013D6CAC7001262B7 /* muci_hono_05.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = muci_hono_05.mp3; sourceTree = "<group>"; };
 		8475B7B113D6CAC7001262B7 /* ta_ge_kotaiko02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ta_ge_kotaiko02.mp3; sourceTree = "<group>"; };
+		8475B7C513D6CEBF001262B7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 		8475B74013D6AD2E001262B7 = {
 			isa = PBXGroup;
 			children = (
+				8475B7C513D6CEBF001262B7 /* README.md */,
 				8475B75513D6AD2E001262B7 /* SESelector */,
 				8475B77513D6AD2F001262B7 /* SESelectorTests */,
 				8475B74E13D6AD2E001262B7 /* Frameworks */,
@@ -333,6 +336,7 @@
 				8475B7BA13D6CAC7001262B7 /* muci_fan_05.mp3 in Resources */,
 				8475B7BB13D6CAC7001262B7 /* muci_hono_05.mp3 in Resources */,
 				8475B7BC13D6CAC7001262B7 /* ta_ge_kotaiko02.mp3 in Resources */,
+				8475B7C613D6CEBF001262B7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,6 +559,7 @@
 				8475B78413D6AD2F001262B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8475B78513D6AD2F001262B7 /* Build configuration list for PBXNativeTarget "SESelectorTests" */ = {
 			isa = XCConfigurationList;
@@ -563,6 +568,7 @@
 				8475B78713D6AD2F001262B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
